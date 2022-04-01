@@ -197,3 +197,4 @@ $RECYCLE.BIN/
 user.js
 
 playwright-report/
+*.png
