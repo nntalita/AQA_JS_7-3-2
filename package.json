@@ -1,0 +1,12 @@
+{
+  "name": "7-3-2-1",
+  "version": "1.0.0",
+  "description": "Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.20.1"
+  }
+}
